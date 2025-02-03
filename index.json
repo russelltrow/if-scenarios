@@ -1,18 +1,6 @@
 {
-    "title": "Foreground Background Scripts Multi Steps (IDE)",
-    "description": "Multiple steps can have foreground and background scripts",
-    "details": {
-        "intro": {
-            "title": "Welcome",
-            "text": "intro/text.md",
-            "foreground": "intro/foreground.sh",
-            "background": "intro/background.sh"
-        }
-    },
+    "title": "Ubuntu simple",
     "backend": {
-        "imageid": "ubuntu"
-    },
-    "interface": {
-        "layout": "ide"
+      "imageid": "ubuntu"
     }
-}
+  }
