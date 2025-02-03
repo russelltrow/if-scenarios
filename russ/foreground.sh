@@ -18,3 +18,6 @@ npm -v # Should print "10.9.2".
 # Install Impact Framework
 npm install -g npm@11.1.0
 npm install -g @grnsft/if
+
+# Download course assets
+wget https://raw.githubusercontent.com/Green-Software-Foundation/if-db/refs/heads/main/manifests/if-course/outputs/if-course-example-1.yaml
