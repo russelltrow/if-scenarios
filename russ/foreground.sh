@@ -14,3 +14,7 @@ nvm current # Should print "v22.13.1".
 
 # Verify npm version:
 npm -v # Should print "10.9.2".
+
+# Install Impact Framework
+npm install -g npm@11.1.0
+npm install -g @grnsft/if
